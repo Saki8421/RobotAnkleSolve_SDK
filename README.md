@@ -65,4 +65,4 @@ make
 ./main
 ```
 ## 6. 联系方式
-如有问题，请联系：Saki8421@outlook.com
+定制sdk请联系：Saki8421@outlook.com
